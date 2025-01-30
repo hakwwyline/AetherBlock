@@ -1,0 +1,1 @@
+Fix API response for server (critical) - Implemented a new feature to enhance API response.
