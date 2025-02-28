@@ -1,0 +1,1 @@
+Develop role management for validation (simplified)
