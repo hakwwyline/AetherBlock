@@ -1,0 +1,1 @@
+Remove email verification for security (complex) - Implemented a new feature to enhance email verification.
