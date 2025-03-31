@@ -1,0 +1,1 @@
+Deploy error handling for branch (simplified) - Implemented a new feature to enhance error handling.
