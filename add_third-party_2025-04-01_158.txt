@@ -1,0 +1,1 @@
+Add third-party authentication for rollback (major) - Implemented a new feature to enhance third-party authentication.
