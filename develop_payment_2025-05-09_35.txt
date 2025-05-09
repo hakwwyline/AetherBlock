@@ -1,0 +1,1 @@
+Develop payment gateway for synchronization (urgent) - Implemented a new feature to enhance payment gateway.
