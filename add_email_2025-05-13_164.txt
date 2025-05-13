@@ -1,0 +1,1 @@
+Add email verification for validation (enhanced) - Implemented a new feature to enhance email verification.
