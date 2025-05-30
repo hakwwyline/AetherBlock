@@ -1,0 +1,1 @@
+Improve role management for UI (simplified) - Implemented a new feature to enhance role management.
