@@ -1,0 +1,1 @@
+Fix product search for authentication (minor)
