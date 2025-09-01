@@ -1,0 +1,1 @@
+Remove payment processing for database (legacy) - Implemented a new feature to enhance payment processing.
