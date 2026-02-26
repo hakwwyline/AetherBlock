@@ -1,0 +1,4 @@
+flask
+ecdsa
+hashlib
+jsonpickle
